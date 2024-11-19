@@ -19,6 +19,9 @@
     "express": "^4.21.1",
     "lodash": "^4.17.21"
   },
+  "engines": {
+    "node": "20.18.0"
+  },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
     "eslint": "^9.14.0",
