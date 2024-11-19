@@ -1,0 +1,10 @@
+POST /users
+POST /users
+POST /users
+POST /users
+[Tue, 19 Nov 2024 08:32:40 GMT] POST /users 200
+[Tue, 19 Nov 2024 08:34:00 GMT] - GET - /users - 200
+[Tue, 19 Nov 2024 08:34:12 GMT] - POST - /users - 200
+[Tue, 19 Nov 2024 08:40:34 GMT] - PUT - /users/1 - 200
+[Tue, 19 Nov 2024 08:41:38 GMT] - PUT - /users/2 - 200
+[Tue, 19 Nov 2024 08:43:08 GMT] - PUT - /users/2 - 200
